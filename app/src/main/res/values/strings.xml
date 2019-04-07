@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Monitory Arman</string>
+
+    <!--Main-->
+    <string name="mulai">Mulai</string>
+    <string name="start">Monitory Membantu Anda Mengontrol HP Anak</string>
+    <string name="img">img</string>
+
+    <!--Biodata-->
+    <string name="txt1">Nama Panggilan Kamu</string>
+    <string name="txt2">Umur Kamu</string>
+    <string name="hint1">Contoh : Budi</string>
+    <string name="hint2">Contoh : 12</string>
+    <string name="next">Selanjutnya</string>
+
+    <!--Login-->
+    <string name="kk">Kode Keluarga</string>
+    <string name="inpKk">Ketikan kode keluarga yang Ayah Bunda miliki disini</string>
+    <string name="code">A1B2C3</string>
+    <string name="masuk">Masuk</string>
+    <string name="noneKk">Belum punya kode keluarga?</string>
+    <string name="pay">Beli Kode Keluarga Disini</string>
+
+    <!--Welcome-->
+    <string name="oke">Oke</string>
+
+
+</resources>
